@@ -3,14 +3,10 @@
 investor_specific_prompts = {
     "Daniel Fine": {
         "objectives": [
-            "Partner with e-commerce platforms to add 500 small businesses in a quarter.",
-            "Create an ML algorithm to lower business default rates by 15% in 6 months.",
-            "Offer 'Quick Cash' for instant order financing, targeting 200 orders in month one."
+            "Partner with e-commerce platforms to add 500 small businesses in a quarter."
         ],
         "tasks": [
-            "Identify top 3 platforms for small businesses and discuss API integration.",
-            "Gather past transaction data and engage a team to develop a credit risk model.",
-            "Understand legalities of instant financing and set criteria and risk strategies."
+            "Identify top 3 platforms for small businesses and discuss API integration."
         ]
     }, 
     "InvestorB": {
